@@ -1,0 +1,253 @@
+   25  CouseDev % git status
+   29  git init
+   31  git status
+   47  git init
+   54  git add .
+   55  git status
+   56  git commit -m "initial commit"
+   58  git log
+   59  git help log
+   60  git log -n 5
+   61  git log --since=2020-01-01
+   62  git log --until=2020-01-01
+   63  git log --author="Abby"
+   65  git log --grep
+   66  git log --grep="ini"
+   72  git status
+   74  git status
+   81  git status
+   83  git status
+   86  git status
+   89  git add statistics.txt 
+   90  git status
+   91  git status
+   92  git commit
+   97  git status
+   98  git add .
+   99  git commit -m 'make first commit'
+  101  git log
+  102  git status
+  103  git status
+  104  git status
+  105  git commit -a -m "Update Curriculum"
+  106  git status
+  113  git status
+  114  git add
+  115  git add .
+  116  git commit -m "create course outline files"
+  117  git status
+  118  git status
+  119  git add .
+  120  git commit -m "add history curriculum ideas"
+  121  git status
+  122  git log
+  127  git status
+  128  git log
+  130  git log --oneline
+  131  git log
+  132  git log --oneline -5
+  133  git status
+  142  git add .gitignore
+  143  git status
+  144  git commit -m "make .gitignore file"
+  145  git status
+  147  git status
+  148  git status
+  149  git add .
+  150  git commit -m "update .git ignore to ignore api-keys.txt"
+  152  git status
+  153  git add .gitignore
+  154  git status
+  155  git status
+  156  git log --oneline
+  157  git remote -v
+  159  git remote -v
+  160  git pull
+  161  git push
+  188  git status
+  189  git status
+  190  git log
+  191  git log -oneline
+  192  git log --oneline
+  193  git diff 867e2da
+  194  git diff 2ff9b96
+  195  git log --oneline
+  196  git diff 2ff9b96
+  199  git remote add origin [200~git@github.com:abbywadsworth/CourseDevelopmentIdeas.git~
+  200  git push -u origin main
+  201  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  207  git status
+  209  git status
+  210  git remote -v
+  211  git remote -v
+  212  git push -u origin main
+  216  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  217  git push -u origin main
+  219  git push -u origin main
+  223  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  224  git push -u origin main
+  226  git status
+  227  git branch
+  228  git branch music
+  229  git branch
+  230  git switch music
+  231  git branch
+  233  git log
+  234  git log --oneline
+  235  git branc
+  236  git branch
+  240  git status
+  242  git status
+  244  git add .
+  245  git commit -m "add empty music file"
+  246  git status
+  247  git status
+  248  git add .
+  249  git commit -m "adding curriculum to music"
+  250  git switch main
+  251  git switch music
+  252  git branch
+  253  git branch orchestra
+  254  git branch
+  255  git switch orchestra
+  256  git branch
+  258  git status
+  259  git add .
+  260  git commit -m "add file to orchestra branch"
+  261  git status
+  263  git branch
+  264  git branch switch music
+  265  git branch
+  266  git switch music
+  267  git branch
+  268  git switch orchestra
+  269  git status
+  270  git branch
+  273  git switch music
+  274  git switch main
+  275  git branch
+  276  git switch orchestra
+  277  git switch music
+  278  git status
+  279  git add .
+  280  git commit -m "changing history file"
+  281  git switch main
+  282  git switch music
+  283  git add .
+  284  git commit -m "adding stuff"
+  285  git branch
+  286  git switch main
+  287  git switch music
+  288  git merge orchestra
+  289  git branch
+  290  git switch orchestra
+  291  git merge switch
+  292  git branch
+  293  git status
+  294  git log --oneline
+  296  git branch
+  297  git merge switch
+  298  git switch music
+  299  git merge orchestra
+  300  git status
+  301  git branch
+  302  git merge orchestra
+  303  git switch main
+  304  git merge music
+  305  git status
+  306  git add .
+  307  git commit -m "update main branch to match music"
+  308  git status
+  309  git branch
+  310  git switch switc
+  311  git switch switch
+  312  git branch
+  313  git switch main
+  314  git switch orchestra
+  315  git switch switch
+  316  git switch orchestra
+  317  git merge switch
+  318  git switch switch
+  319  git switch orchestra
+  320  git push
+  321  git push --set-upstream origin orchestra
+  322  git push --set-upstream origin orchestra
+  323  git branch
+  324  git branch -d switch
+  325  git branch
+  326  git switch music
+  327  git branch
+  328  git branch -d orchestra
+  329  git branch
+  330  git switch main
+  331  git merge music
+  332  git branch
+  333  git branch -d music
+  334  git branch
+  335  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  336  git push -u origin main
+  344  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  345  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  346  git push -u origin main
+  370  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  387  git status
+  391  git status
+  396  git remote add origin <git@github.com:abbywadsworth/CourseDevelopmentIdeas.git>
+  397  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  398  git push -u origin main
+  404  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  406  git push -u origin main
+  407  git remote add origin git@github.com:abbywadsworth/CourseDevelopment.git
+  408  git push -u origin main
+  415  git status
+  416  git remote add origin git@github.com:abbywadsworth/CourseDevelopmentIdeas.git
+  417  git remote add origin git@github.com:abbywadsworth/CourseDevelopment.git
+  424  git remote -v
+  425  git push -u origin main
+  440  git clone git@github.com:esnt/my286blog.git
+  441  git clone git@github.com:esnt/my286blog.git
+  446  git clone git@github.com:esnt/my386blog.git
+  451  git remote set-url origin git@github.com:abbywadsworth/my386blog.git
+  452  git push -u origin main
+  460  git status
+  461  git add 2023-01-26-blog-ideas.md
+  462  git status
+  463  git add .
+  464  git status
+  465  git add ../_config.yml
+  466  git status
+  467  git add ../about.markdown 
+  468  git status
+  469  git commit -m "update info about new blog"
+  470  git status
+  471  git push
+  472  git status
+  473  git add .
+  474  git status
+  475  git add ../about.markdown 
+  476  git status
+  477  git commit -m "update about.markdown"
+  478  git status
+  479  git status
+  480  git add .
+  481  git status
+  482  git commit -m "fixing spelling error in blog"
+  483  git status
+  484  git push
+  485  git status
+  486  git push
+  487  git pull
+  493  git status
+  494  git add .
+  496  git status
+  497  git commit -m "update blog"
+  498  git status
+  499  git remote add origin git@github.com:abbywadsworth/NewNew.git
+  511  git remote -v
+  515  git init
+  516  git status
+  517  git add .
+  518  git commit -m "updating stuff"
+  519  git remote add origin git@github.com:abbywadsworth/CourseDevelopment.git
+  520  git push -u origin main
+  521  history | grep "git " > git_commands.txt
